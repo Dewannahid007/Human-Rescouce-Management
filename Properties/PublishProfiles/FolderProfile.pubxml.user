@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Web Application\HumanResourceManagement\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-22T03:41:06.6869334Z||;True|2024-10-21T23:00:10.1539414+06:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=NAHID-PC\SQL2K19ENT%3bDatabase=HRM%3bUser ID=sa%3bPassword=1234%3bMultipleActiveResultSets=true%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
